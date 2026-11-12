@@ -6,7 +6,7 @@ Edit this file to customize agent behavior for your workflow.
 ## Identity
 
 ```yaml
-github_username: jordanpartridge
+github_username: shadetheory
 name: Jordan
 ```
 
